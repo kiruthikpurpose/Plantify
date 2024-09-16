@@ -26,4 +26,4 @@ To report a vulnerability, please follow these steps:
 
 ## Contact
 
-For urgent security issues, please contact our security team at [your-email@example.com].
+For urgent security issues, please contact our security team at [kiruthikpurpose@gmail.com].
