@@ -1,24 +1,29 @@
-Welcome to the NextJS 13 base template bootstrapped using the `create-next-app`. This template supports TypeScript, but you can use normal JavaScript as well.
+# Plantify
 
-## Getting Started
+**Plantify** is a simple website where users can upload an image of a plant and identify it using Artificial Intelligence, powered by Google Gemini API. Once an image is uploaded, the AI will analyze it and display the plant’s name and detailed information right below the uploaded image.
 
-Hit the run button to start the development server.
+## Features
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+- **Upload an Image:** You can select a file from your device to upload.
+- **Plant Identification:** After uploading, the website uses the Google Gemini API to identify the plant.
+- **Display Plant Information:** Once the plant is identified, its name, scientific name, and other relevant information are displayed below the image.
 
-[Route Handlers](https://nextjs.org/docs/app/building-your-application/routing/route-handlers) allow you to create custom request handlers for a given route using the Web Request and Response APIs.
+## Example Output
 
-The `app/api` directory is mapped to `/api/*`. Folders in this directory with files named `route.ts` are treated as [Route handlers](https://nextjs.org/docs/app/building-your-application/routing/route-handlers) instead of pages.
+**Umbrella Tree**  
+_Schefflera actinophylla_  
 
-## Learn More
+The umbrella tree, also known as the octopus tree or Australian umbrella tree, is a popular indoor plant known for its large, umbrella-shaped leaves. Native to Australia, it is a fast-growing evergreen that can tolerate a range of light conditions. The umbrella tree is known for its distinctive, star-shaped leaves that can grow up to 16 inches in diameter. The plant can grow up to 10 feet tall indoors but is often pruned to keep it at a manageable size.
 
-To learn more about Next.js, take a look at the following resources:
+**Plant Details:**
+- Family: Araliaceae
+- Native Region: Australia
+- Growth Habit: Shrub
+- Flower Color: Red
+- Leaf Type: Compound
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Technologies Used
 
-## Productionizing your Next App
-
-To make your next App run smoothly in production make sure to deploy your project with [Repl Deployments](https://docs.replit.com/hosting/deployments/about-deployments)!
-
-You can also produce a production build by running `npm run build` and [changing the run command](https://docs.replit.com/programming-ide/configuring-repl#run) to `npm run start`.
+- **Next.js 14** for building the website.
+- **Google Gemini API** for plant identification.
+- **Tailwind CSS** for modern, responsive styling.
