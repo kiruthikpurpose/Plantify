@@ -1,5 +1,7 @@
 # Plantify
 
+Replit: [https://www.replit.com/@kiruthikpurpose/Plantify]
+
 **Plantify** is a simple website where users can upload an image of a plant and identify it using Artificial Intelligence, powered by Google Gemini API. Once an image is uploaded, the AI will analyze it and display the plant’s name and detailed information right below the uploaded image.
 
 ## Features
