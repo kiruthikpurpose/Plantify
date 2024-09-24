@@ -1,6 +1,6 @@
 # Plantify
 
-**Plantify** is a simple website where users can upload an image of a plant and identify it using Artificial Intelligence, powered by Google Gemini API. Once an image is uploaded, the AI will analyze it and display the plant’s name and detailed information right below the uploaded image.
+**Plantify** is a simple website where users can upload an image of a plant and identify it using Artificial Intelligence, powered by Google Gemini API. This project was developed with the assistance of AI tools like Claude and ChatGPT, which helped in planning, debugging, and writing the code, even though I had limited knowledge of coding in Next.js 14. Once an image is uploaded, the AI will analyze it and display the plant’s name and detailed information right below the uploaded image.
 
 ## Features
 
@@ -27,7 +27,4 @@ The umbrella tree, also known as the octopus tree or Australian umbrella tree, i
 - **Next.js 14** for building the website.
 - **Google Gemini API** for plant identification.
 - **Tailwind CSS** for modern, responsive styling.
-
-
-## Replit: 
-[Plantify](https://www.replit.com/@kiruthikpurpose/Plantify)
+- **AI Tools** like Claude and ChatGPT for assistance in planning and coding.
