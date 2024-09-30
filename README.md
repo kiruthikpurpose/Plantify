@@ -26,5 +26,5 @@ The umbrella tree, also known as the octopus tree or Australian umbrella tree, i
 
 - **Next.js 14** for building the website.
 - **Google Gemini API** for plant identification.
-- **Tailwind CSS** for modern, responsive styling.
-- **AI Tools** like Claude and ChatGPT for assistance in planning and coding.
+- **Tailwind CSS** for modern, responsive and aesthetic styling.
+- **AI Tools** like Claude and ChatGPT for atmost assistance in planning and coding.
